@@ -2,20 +2,20 @@
 
 **COMPLETE THE TASKS BELOW**
 
-**Fitness Tracker UI**
-
-Task: Design and develop a user interface for a fitness tracker app in Flutter. The app should display user activity data (e.g., steps taken, calories burned, distance covered) using charts, graphs, and various Flutter UI components.
-Bonus Points: Include a step-by-step animation to illustrate progress and a dark mode toggle for the UI.
-Objective: Test participants' UI/UX design skills, usage of Flutter widgets, and their ability to work with complex layouts, animations, and themes.
-
-
+**Palindrome Checker**
+Task: Write a Dart function that checks whether a given string is a palindrome. The function should ignore spaces, punctuation, and be case-insensitive.
+Bonus Points: Extend the function to check palindrome properties for numeric inputs as well.
+Objective: Test string manipulation, logic implementation, and handling edge cases.
  
- **Text-Based Adventure Game**
+**Sorting Algorithm Implementation**
+Task: Write a Dart function that implements a sorting algorithm (e.g., Quick Sort, Merge Sort, or Bubble Sort) to sort a list of integers. The function should return the sorted list.
+Bonus Points: Implement two different sorting algorithms and compare their performance in terms of execution time.
+Objective: Test understanding of algorithmic complexity and the ability to implement and optimize sorting algorithms.
 
-Task: Develop a text-based adventure game in Dart where the player navigates through different rooms, picks up items, and interacts with characters. The game should handle player inputs and update the game state accordingly.
-Bonus Points: Add a feature for saving and loading game progress using file I/O in Dart.
-Objective: Test participants' skills in managing program state, handling input/output, and structuring a small-scale game using Dart's core features like classes and lists.\
-
+**Basic Calculator Function**
+Task: Implement a Dart function that takes two numbers and a mathematical operator (+, -, *, /, %) as input and returns the calculated result. The function should handle basic arithmetic operations.
+Bonus Points: Extend the function to handle multi-step operations and include error handling for division by zero.
+Objective: Evaluate proficiency in conditional statements, arithmetic operations, and error handling.
 
 **SUBMISSION**
 Kindly submit your repositories here https://forms.gle/SSRgzRJJvGcHK6ZY6
